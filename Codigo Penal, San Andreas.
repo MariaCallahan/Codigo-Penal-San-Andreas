@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Código Penal de San Andreas</title>
+    <link rel="stylesheet" href="estilos.css">
+    <style>
+        body {
+            background-color: black;
+            background-image: url('https://i.imgur.com/RyLsAqe.jpeg');
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-shadow: 1px 1px 3px black;
+        }
+        h1, h2 {
+            text-align: center;
+            text-transform: uppercase;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Código Penal de San Andreas</h1>
+    
+    <h2>Delitos contra la Persona</h2>
+    <ul>
+        <li><b>Homicidio Simple:</b> 5 años de prisión y multa de $10,000</li>
+        <li><b>Homicidio Culposo:</b> 1 año de prisión y multa de $5,000</li>
+        <li><b>Lesiones Personales:</b> Leves: 6 meses de prisión y multa de $2,000 | Graves: 1 año de prisión y multa de $4,000</li>
+    </ul>
+
+    <h2>Delitos contra la Libertad</h2>
+    <ul>
+        <li><b>Amenazas:</b> Simples: Multa de $1,000 | Con riesgo evidente: 3 meses de prisión y multa de $2,500</li>
+        <li><b>Coacción:</b> 6 meses de prisión y multa de $3,000</li>
+    </ul>
+
+    <h2>Delitos contra la Propiedad</h2>
+    <ul>
+        <li><b>Hurto:</b> Menor a $10,000: Multa de $2,500 y hasta 3 meses de prisión | Mayor a $10,000: 6 meses de prisión y multa de $5,000</li>
+        <li><b>Daño a la Propiedad:</b> Multa equivalente a los daños y 1 a 3 meses de prisión</li>
+        <li><b>Robo con Violencia:</b> 2 años de prisión y multa de $7,000</li>
+    </ul>
+
+    <h2>Delitos contra el Orden Público</h2>
+    <ul>
+        <li><b>Desórdenes Públicos:</b> Multa de $1,500 y hasta 1 mes de prisión</li>
+        <li><b>Resistencia a la Autoridad:</b> Multa de $2,000 y hasta 2 meses de prisión</li>
+        <li><b>Portación Ilegal de Armas:</b> Simple: Multa de $3,500 y hasta 3 meses de prisión | Uso en un delito: 1 año de prisión y multa de $6,000</li>
+    </ul>
+
+    <h2>Delitos contra la Moral y las Buenas Costumbres</h2>
+    <ul>
+        <li><b>Actos Indecentes en Público:</b> General: Multa de $500 | Si afecta a menores: Multa de $1,000 y hasta 1 mes de prisión</li>
+        <li><b>Distribución de Material Ofensivo:</b> Multa de $1,500 y hasta 1 mes de prisión</li>
+    </ul>
+
+    <h2>Ley de Seguridad Nacional</h2>
+    <h3>Infracciones Leves</h3>
+    <ul>
+        <li><b>Alteración del Orden Público:</b> Multa de $200</li>
+        <li><b>Desobediencia a la Autoridad:</b> Multa de $300</li>
+        <li><b>Obstaculización de la Vía Pública:</b> Multa de $250</li>
+    </ul>
+
+    <h3>Infracciones Graves</h3>
+    <ul>
+        <li><b>Posesión Ilegal de Armas:</b> Multa de $2,000 y decomiso del arma</li>
+        <li><b>Reincidencia:</b> +3 meses de prisión</li>
+        <li><b>Resistencia a la Autoridad:</b> Multa de $1,000 y hasta 6 meses de prisión</li>
+        <li><b>Incitación a la Violencia:</b> Multa de $2,500 y hasta 6 meses de prisión</li>
+    </ul>
+
+    <h3>Infracciones Muy Graves</h3>
+    <ul>
+        <li><b>Terrorismo y Amenazas Graves:</b> Hasta 10 años de prisión y multa de $50,000</li>
+        <li><b>Sabotaje a la Infraestructura Pública:</b> Hasta 5 años de prisión y multa de $10,000</li>
+        <li><b>Colaboración con Organizaciones Criminales:</b> Primera vez: Hasta 3 años de prisión y multa de $5,000 | Reincidencia: Hasta 5 años de prisión</li>
+    </ul>
+
+    <h1>Código de Deber Militar</h1>
+    <h2>Deberes Militares</h2>
+    <ul>
+        <li><b>Desobediencia:</b> Suspensión temporal y multa de $300</li>
+        <li><b>Falta de Lealtad y Honor:</b> Multa de $500 y hasta 1 mes de suspensión</li>
+        <li><b>Uso Negligente de Equipos:</b> Multa de $400 y hasta 15 días de suspensión</li>
+    </ul>
+
+    <h2>Sanciones Militares</h2>
+    <ul>
+        <li><b>Faltas Leves:</b> Amonestación verbal o multa de $100</li>
+        <li><b>Faltas Graves:</b> Multa de $700 y hasta 1 mes de suspensión</li>
+        <li><b>Faltas Muy Graves:</b> Multa de $2,000 y destitución del cargo</li>
+        <li><b>Sanciones en Situaciones de Conflicto:</b> Incumplimiento de órdenes: Multa de $1,000 y hasta 2 meses de suspensión | Poner en riesgo a civiles: Multa de $1,500 y posible destitución</li>
+    </ul>
+</body>
+</html>
